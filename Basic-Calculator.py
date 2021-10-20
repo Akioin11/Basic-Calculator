@@ -1,8 +1,10 @@
 import time
 import math
 time.sleep(1)
-print("Hello!! \nHope you are having a Good Day!! \nLet's start Calculating!")
-time.sleep(2)
+print("Hello!! \nHope you are having a Good Day!!")
+time.sleep(1)
+print("Let's start Calculating!")
+time.sleep(1)
 def error():
     print("Sorry, Something went wrong :( \nPlease try again..")
     time.sleep(1)
