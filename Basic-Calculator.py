@@ -1,6 +1,6 @@
 import time
 import math
-time.sleep(3)
+time.sleep(1)
 print("Hello!! \nHope you are having a Good Day!!")
 time.sleep(1)
 print("Let's start Calculating!")
